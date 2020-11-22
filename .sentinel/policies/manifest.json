@@ -1,0 +1,10 @@
+{
+	"records": [
+		{
+			"key": "policy1",
+			"source": "C:\\python-workspace\\first sentinel policy\\policy1.sentinel",
+			"sourceSum": "8b8379aa69250eb22a18f21618806f00",
+			"dest": "C:/python-workspace/first sentinel policy/.sentinel/policies/policy1-8b8379aa69250eb22a18f21618806f00.sentinel"
+		}
+	]
+}
